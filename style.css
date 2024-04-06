@@ -17,6 +17,7 @@ body {
 
 .list-items {
     padding: 5px;
+    font-size: 22px;
 }
 
 .links {
@@ -24,4 +25,23 @@ body {
     font-family: Helvetica;
     font-size: 20px;
 
+}
+
+/* Styling the recipe pages */
+
+.headings {
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.para {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+}
+
+#main-image {
+    margin-left: 30%;
+    margin-right: 30%;
 }
