@@ -1,0 +1,27 @@
+body {
+    background-color: #e6b273;
+}
+
+#main-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #8d2d2d;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.link-list {
+    margin-top: 60px;
+    
+}
+
+.list-items {
+    padding: 5px;
+}
+
+.links {
+    color: #8d2d2d;
+    font-family: Helvetica;
+    font-size: 20px;
+
+}
