@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color: #e6b273;
 }
@@ -6,18 +12,20 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: #8d2d2d;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 30px 30px;
+    padding: 8px;
 }
 
 .main-list {
     margin-top: 60px;
+    text-align: center;
     
 }
 
 .list-items {
     padding: 5px;
     font-size: 22px;
+    margin: 30px 120px;
 }
 
 .links {
@@ -31,7 +39,10 @@ body {
 
 .headings {
     font-weight: bold;
-    text-align: center;
+    text-align: left;
+    margin: 30px 20px;
+    background-color: #8d2d2d;
+    padding: 8px 28px;
     
 }
 
@@ -39,6 +50,7 @@ body {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 25px;
+    margin: 30px 50px;
 }
 
 #main-image {
